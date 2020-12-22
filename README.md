@@ -37,3 +37,8 @@ npm run debug:code
 ```
 npm run build:prod
 ```
+
+- #### Run the app
+```
+localhost:7000/api
+```
