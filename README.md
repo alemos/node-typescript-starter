@@ -1,8 +1,6 @@
 # TypeScript Node Starter
 
 Node js, Typescript, Webpack starter.
-<br />
-Run, build, debug your app.
 
 ## Pre-reqs
 To build and run this app locally you will need a few things:
