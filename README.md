@@ -24,7 +24,7 @@ npm install
 npm run serve:dev
 npm run serve:prod
 ```
-- #### Debug project
+- #### Debug app
 ```
 npm run debug:chrome
 ```
