@@ -4,13 +4,13 @@ Node js, Typescript, Webpack starter.
 <br />
 Run, build, debug your app.
 
-# Pre-reqs
+## Pre-reqs
 To build and run this app locally you will need a few things:
 - Install [Node.js](https://nodejs.org/en/)
 - Install [VS Code](https://code.visualstudio.com/)
 <br />
 
-# Getting started
+## Getting started
 - #### Clone the repository
 ```
 git clone https://github.com/alemos/node-typescript-starter.git <project_name>
